@@ -11,7 +11,16 @@ categories: posts
 * PB-FHR Central Reflector Lifetime Evaluation
   * [Master's Report](/papers/Report_Final.pdf)
   * [2014 Student Conference Abstract](/papers/munk_abstract_2014.pdf), which won the [best graduate paper](http://www.mne.psu.edu/news/news_detail.cfm?nid=366) award. 
+* PB-FHR Whitepaper Series
+  * [MK-1 PB-FHR Technical Description](http://fhr.nuc.berkeley.edu/wp-content/uploads/2014/10/14-002-PB-FHR_Design_Report_Final.pdf)
+  * [Whitepaper 2: FHR Methods and Experiments program](http://fhr.nuc.berkeley.edu/wp-content/uploads/2013/08/12-002-FHR-Workshop-2-Report-Final.pdf)
+  * [Whitepaper 3: FHR Materials, Fuels and Components](http://fhr.nuc.berkeley.edu/wp-content/uploads/2013/08/12-003-FHR-Workshop-3-Report-Final.pdf)
+  * [Whitepaper 4: FHR Development Roadmap and Test Reactor Performance Requirements ](http://fhr.nuc.berkeley.edu/wp-content/uploads/2013/08/12-004-FHR-Workshop-4-Report-Final.pdf)
 * Mars Rover Neutron Source
+  * [Abstract](http://goldschmidt.info/2014/abstracts/abstractView?abstractId=1916) for Goldschmit 2014 Conference
+  * Poster for Goldschmidt
+  * Paper on Instrumentation Development
+  * Paper on Neutron Source Design
 * Infinite Pebble Bed Studies
 * Hybrid Monte-Carlo
 * Production of 99-Mo
