@@ -18,14 +18,14 @@ categories: posts
   * [Whitepaper 4: FHR Development Roadmap and Test Reactor Performance Requirements ](http://fhr.nuc.berkeley.edu/wp-content/uploads/2013/08/12-004-FHR-Workshop-4-Report-Final.pdf)
 * Mars Rover Neutron Source
   * [Abstract](http://goldschmidt.info/2014/abstracts/abstractView?abstractId=1916) for Goldschmit 2014 Conference
-  * Poster for Goldschmidt
+  * [Poster](/papers/Goldschmidt_2014_Poster.pdf) for Goldschmidt
   * [Poster](/papers/ANS_Anaheim_2014.pdf) for 2014 ANS Winter meeting, Anaheim, CA 
-  * Paper on Instrumentation Development
-  * Paper on Neutron Source Design
-* Infinite Pebble Bed Studies
+  * Paper on Instrumentation Development (*link available late 2014*)
+  * Paper on Neutron Source Design (*link available late 2014*)
 * Hybrid Monte-Carlo
 * Production of 99-Mo
   * [Press Release from OSU](http://oregonstate.edu/terra/2014/05/oregon-state-nuclear-engineers-solve-looming-medical-isotope-shortage/)
   * [Patent](http://www.google.com/patents/US20120027152)
   * ANS Summary
+  * [Poster](/papers/Poland_2011_Poster.pdf) [Abstract](/papers/Poland_2011_Abstract.pdf) from Poland's first Nuclear Energy Congress, Spring 2011 
 
