@@ -11,6 +11,8 @@ categories: posts
 * PB-FHR Central Reflector Lifetime Evaluation
   * [Master's Report](/papers/Report_Final.pdf)
   * [2014 Student Conference Abstract](/papers/munk_abstract_2014.pdf), which won the [best graduate paper](http://www.mne.psu.edu/news/news_detail.cfm?nid=366) award. 
+* PB-FHR Test Reactor Development
+  * [Talk](/papers/ANS_Chicago_2012_Slides.pdf) [Abstract](/papers/ANS_Chicago_2012_Abstract.pdf) from 2012 ANS Annual Conference, Chicago, IL
 * PB-FHR Whitepaper Series
   * [MK-1 PB-FHR Technical Description](http://fhr.nuc.berkeley.edu/wp-content/uploads/2014/10/14-002-PB-FHR_Design_Report_Final.pdf)
   * [Whitepaper 2: FHR Methods and Experiments program](http://fhr.nuc.berkeley.edu/wp-content/uploads/2013/08/12-002-FHR-Workshop-2-Report-Final.pdf)
