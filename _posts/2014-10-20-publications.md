@@ -22,9 +22,9 @@ categories: posts
   * [Abstract](http://goldschmidt.info/2014/abstracts/abstractView?abstractId=1916) for Goldschmit 2014 Conference
   * [Poster](/papers/Goldschmidt_2014_Poster.pdf) for Goldschmidt
   * [Poster](/papers/ANS_Anaheim_2014.pdf) for 2014 ANS Winter meeting, Anaheim, CA 
-  * Paper on Instrumentation Development (*link available late 2014*)
-  * Paper on Neutron Source Design (*link available late 2014*)
-* Hybrid Monte-Carlo
+  * Paper on Instrumentation Development (*link available late 2015*)
+  * [Paper](/papers/munk_mc15.pdf) submitted to M&C conference 2015, Nashville, TN
+* Hybrid Methods in Neutron Transport
 * Production of 99-Mo
   * [Press Release from OSU](http://oregonstate.edu/terra/2014/05/oregon-state-nuclear-engineers-solve-looming-medical-isotope-shortage/)
   * [Patent](http://www.google.com/patents/US20120027152)
