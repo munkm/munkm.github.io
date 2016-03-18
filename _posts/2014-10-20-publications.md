@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Publications
-cover: kittenparty.jpeg
+cover: treesnow.jpg
 date:   2016-03-16
 categories: posts
 ---
