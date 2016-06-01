@@ -19,7 +19,7 @@ categories: posts
   * [Paper](/papers/munk_mc15.pdf) submitted to M&C conference 2015, Nashville, TN
 * Hybrid Methods in Neutron Transport
   * [Updated Paper](/papers/munk_physor16_update.pdf) [Original Paper](/papers/munk_physor16.pdf) [Poster](/papers/PHYSOR_Poster_Munk.pdf) submitted to PHYSOR 2016, Sun Valley, ID. 
-    **Note:** The paper distributed with the PHYSOR 2016 conference proceedings does not include the data update. Both the poster and the updated publication have rectified the data issue that exists in the original document. For a detailed description of this discrepancy, please do not hesitate to contact me. 
+    **Note:** The paper distributed with the PHYSOR 2016 conference proceedings has an error that was not rectified by the authors until after distribution. To rectify this issue, we have included both the original and an updated paper for interested parties to access. Both the poster and the updated publication address and fix the data issue that exists in the original document. For a detailed description of this discrepancy, please do not hesitate to contact me. 
 
 ## Refereed Conference Abstracts:
 
