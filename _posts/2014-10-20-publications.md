@@ -2,7 +2,7 @@
 layout: post
 title: Publications
 cover: treesnow.jpg
-date:   2016-03-16
+date:   2016-06-01
 categories: posts
 ---
 
@@ -18,7 +18,7 @@ categories: posts
 * Mars Rover Neutron Source
   * [Paper](/papers/munk_mc15.pdf) submitted to M&C conference 2015, Nashville, TN
 * Hybrid Methods in Neutron Transport
-  * [Paper](/papers/munk_physor16.pdf) submitted to PHYSOR 2016, Sun Valley, ID
+  * [Paper_update](/papers/munk_physor16_update.pdf)[Paper_old](/papers/munk_physor16.pdf)[Poster](/papers/PHYSOR_Poster_Munk.pdf) submitted to PHYSOR 2016, Sun Valley, ID. **Note:** The paper distributed with the PHYSOR 2016 conference proceedings does not include the data update. Both the poster and the updated publication have rectified the data issue that exists in the original document. For a detailed description of this discrepancy, please do not hesitate to contact me. 
 
 ## Refereed Conference Abstracts:
 
