@@ -21,6 +21,9 @@ categories: posts
   * [Updated Paper](/papers/munk_physor16_update.pdf) [Original Paper](/papers/munk_physor16.pdf) [Poster](/papers/PHYSOR_Poster_Munk.pdf) submitted to PHYSOR 2016, Sun Valley, ID. 
     **Note:** The paper distributed with the PHYSOR 2016 conference proceedings has an error that was not rectified by the authors until after distribution. To rectify this issue, we have included both the original and an updated paper for interested parties to access. Both the poster and the updated publication address and fix the data issue that exists in the original document. For a detailed description of this discrepancy, please do not hesitate to contact me. 
 
+## Invited Talks:
+* [Link](http://ne.utk.edu/events/fwcadis-%CF%89-an-angle-informed-hybrid-method-for-deep-penetration-radiation-transport/) [Slides](/papers/16_10_UT_Colloquium.pdf) University of Tennessee, Knoxville Department of Nuclear Engineering Colloquium, October 19, 2016
+
 ## Refereed Conference Abstracts:
 
 * PB-FHR Central Reflector Lifetime Evaluation
@@ -39,7 +42,6 @@ categories: posts
   * [Whitepaper 2: FHR Methods and Experiments program](http://fhr.nuc.berkeley.edu/wp-content/uploads/2013/08/12-002-FHR-Workshop-2-Report-Final.pdf)
   * [Whitepaper 3: FHR Materials, Fuels and Components](http://fhr.nuc.berkeley.edu/wp-content/uploads/2013/08/12-003-FHR-Workshop-3-Report-Final.pdf)
   * [Whitepaper 4: FHR Development Roadmap and Test Reactor Performance Requirements ](http://fhr.nuc.berkeley.edu/wp-content/uploads/2013/08/12-004-FHR-Workshop-4-Report-Final.pdf)
-
 
 ## Other:
 
