@@ -2,7 +2,7 @@
 layout: post
 title: Publications
 cover: treesnow.jpg
-date:   2016-06-01
+date:   2017-09-28
 categories: posts
 ---
 
@@ -22,6 +22,10 @@ categories: posts
     **Note:** The paper distributed with the PHYSOR 2016 conference proceedings has an error that was not rectified by the authors until after distribution. To rectify this issue, we have included both the original and an updated paper for interested parties to access. Both the poster and the updated publication address and fix the data issue that exists in the original document. For a detailed description of this discrepancy, please do not hesitate to contact me. 
 
 ## Invited Talks:
+* [Link](https://illinois.edu/calendar/detail/4035?eventId=33270733) 
+  [Slides](/papers/26_09_NPRE.pdf) 
+  University of Illinois, Urbana-Champaign Department of Nuclear, Plasma,
+  and Radiological Engineering seminar, September 26, 2017
 * [Link](http://ne.utk.edu/events/fwcadis-%CF%89-an-angle-informed-hybrid-method-for-deep-penetration-radiation-transport/) [Slides](/papers/16_10_UT_Colloquium.pdf) University of Tennessee, Knoxville Department of Nuclear Engineering Colloquium, October 19, 2016
 
 ## Refereed Conference Abstracts:
