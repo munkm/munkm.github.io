@@ -11,7 +11,8 @@ categories: posts
 * Hybrid Methods in Neutron Transport
   * In progress.
 * Mars Rover Neutron Source
-  * Paper on Instrumentation Development (*link available upon acceptance of publication*)
+  * [Paper](http://onlinelibrary.wiley.com/doi/10.1111/ggr.12170/full)
+  on Instrumentation Development
 
 ## Refereed Conference Proceedings:
 
@@ -50,7 +51,16 @@ categories: posts
 ## Other:
 
 * Hybrid Methods in Neutron Transport:
-  * [PhD dissertation](https://www.youtube.com/watch?v=J7UwSVsiwzI). Link available late summer 2016. 
+  * [PhD dissertation](https://github.com/munkm/dissertation) (link to
+    repository) 
+    * Frontmatter: [Abstract](/papers/diss_abstract.pdf), 
+      [Table of Contents](/papers/diss_contents.pdf)
+    * Backmatter: [Bibliography](/papers/diss_bib.pdf)
+    * [Introduction](/papers/diss_intro.pdf)
+    * [Literature Review](/papers/diss_litreview.pdf)
+    * [Methodology](/papers/diss_methodology.pdf)
+    * [Results](/papers/diss_results.pdf)
+    * [Conclusions](/papers/diss_conclusions.pdf)
 * PB-FHR Central Reflector Lifetime Evaluation
   * [Master's Report](/papers/Report_Final.pdf)
 * Production of 99-Mo
