@@ -51,8 +51,7 @@ categories: posts
 ## Other:
 
 * Hybrid Methods in Neutron Transport:
-  * [PhD dissertation](https://github.com/munkm/dissertation) (link to
-    repository) 
+  * [PhD dissertation (full)](/papers/diss_full_nosig.pdf)  [repository](https://github.com/munkm/dissertation) 
     * Frontmatter: [Abstract](/papers/diss_abstract.pdf), 
       [Table of Contents](/papers/diss_contents.pdf)
     * Backmatter: [Bibliography](/papers/diss_bib.pdf)
